@@ -7,6 +7,8 @@
 
 An example rest api with NodeJS and MongoDB
 
+[![Build Status](https://dev.azure.com/sonukumar22/sonukumar_22/_apis/build/status/sonu-kumar22.node-rest-example?branchName=typescript)](https://dev.azure.com/sonukumar22/sonukumar_22/_build/latest?definitionId=2&branchName=typescript)
+
 ## Prerequisite
 
 This REST API example assumes that you have NodeJS and MongoDB installed.
